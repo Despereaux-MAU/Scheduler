@@ -22,7 +22,7 @@ public class ScheduleResponseDto {
         this.updatedAt = schedule.getUpdatedAt();
     }
 
-    // Getter and Setter
+    // Getter & Setter
     public Long getId() {
         return id;
     }

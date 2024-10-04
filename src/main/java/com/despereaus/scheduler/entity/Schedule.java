@@ -24,7 +24,7 @@ public class Schedule {
         this.updatedAt = updatedAt;
     }
 
-    // Getters and Setters (생략되지 않음)
+    // Getters & Setters
 
     public Long getId() {
         return id;

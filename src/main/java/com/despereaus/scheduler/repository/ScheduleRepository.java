@@ -52,7 +52,7 @@ public class ScheduleRepository {
         return jdbcTemplate.update(sql, id, password);
     }
 
-    // RowMapper to map result set rows to Schedule objects
+    // RowMapper
     private static class ScheduleRowMapper implements RowMapper<Schedule> {
         @Override
         public Schedule mapRow(ResultSet rs, int rowNum) throws SQLException {

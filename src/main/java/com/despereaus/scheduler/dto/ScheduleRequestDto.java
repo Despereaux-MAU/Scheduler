@@ -6,7 +6,7 @@ public class ScheduleRequestDto {
     private String contents;
     private String password; // 비밀번호 필드 추가
 
-    // Getter와 Setter
+    // Getter & Setter
     public String getUsername() {
         return username;
     }
