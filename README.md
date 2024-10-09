@@ -77,7 +77,7 @@
 - **Frontend**: HTML, CSS, JavaScript
 
 
-##설치 및 실행
+## 설치 및 실행
 
 1. **MySQL 데이터베이스 생성**
     MySQL에 접속하여 다음 명령어로 데이터베이스를 생성합니다.
